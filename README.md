@@ -1,2 +1,3 @@
-# Music-Mood-Detector
-Using signal processing and machine learning for music mood detection
+# Million-Songs-Dataset-Recommender
+
+Using the recommendation system logic - popularity based, item-based, hybrid (matrix)
